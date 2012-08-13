@@ -1,1 +1,10 @@
-Aplicación que permite registrar Libros con un cliente en ANDROID, el backend proporciona servicios Restful para el proceso de envio  y sincronización de datos
+Pequeña aplicación que permite registrar Libros en un smartphone ANDROID y que soporta sincronización, el objetivo de este proyecto es netamente educativo
+pero no descarto el continuar con su implementación para luego quizas donarlo, si deseas colaborar con alguna idea o simplemente agregar mas funcionalidades, sabes 
+que puedes hacerlo ( Tienes para elegir ANDROID O WEB APP ) y si deseas conversar del tema, puedes ponerte en contacto conmigo en todo momento mi correo mason.xp@gmail.com
+
+Sobre esta aplicación, te comento que se divide en 2 partes :
+
+- Cliente ANDROID
+- Backend WEB APP (Restful WS)
+
+Para el desarrollo del backend se consideró Servicios Restful (sincronización de datos) combinado con JSON.
